@@ -61,7 +61,7 @@ figcaption{margin-top:.8rem;padding-top:.6rem;border-top:1px solid var(--line);f
 .to-top:hover,.to-top:focus-visible{background:var(--gold);color:var(--forest)}
 a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
 
-@media (max-width:1000px){
+@media (max-width:1200px){
   .menu-btn{display:block}
   .toc{display:none;position:absolute;left:0;right:0;top:100%;background:var(--forest);flex-direction:column;padding:.5rem 1.5rem 1rem;border-bottom:2px solid var(--gold)}
   .toc.open{display:flex}
